@@ -5,5 +5,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: "/hello-mantra"
+  base: "/MantraDjiwa"
 });
